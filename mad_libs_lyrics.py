@@ -18,5 +18,5 @@ word2 = 'boo'
 word3 = 'blah'
 word4 = 'yah'
 
-print(word3 + '' + word4 + '' + 'fah')
+print(word3 + " " + word4 + " " + 'fah')
 print 'yeah thats right,' + word1 + "!"
